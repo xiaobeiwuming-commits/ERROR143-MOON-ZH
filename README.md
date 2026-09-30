@@ -2,7 +2,7 @@
 
 站内搜索项目名：**ERROR143-MOON-ZH**。
 
-[下载最新安装包](https://github.com/xiaobeiwuming-commits/ERROR143-MOON-ZH/releases/latest) · [全部版本](https://github.com/xiaobeiwuming-commits/ERROR143-MOON-ZH/releases) · [测试报告](QA_REPORT.md)
+[下载安装包](https://github.com/xiaobeiwuming-commits/ERROR143-MOON-ZH/releases) · [测试报告](QA_REPORT.md)
 
 进入发行版页面，在 **Assets** 中下载 `ERROR143_MOON_ZH_v0.1.2.zip`。`Source code` 是 GitHub 自动生成的项目文件压缩包，玩家请下载上述安装包 ZIP。
 
